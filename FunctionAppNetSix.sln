@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.32916.344
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionAppNetSix", "FunctionAppNetSix\FunctionAppNetSix.csproj", "{68D5B369-6C7A-4DF5-8B2F-35C75F29370E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68D5B369-6C7A-4DF5-8B2F-35C75F29370E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68D5B369-6C7A-4DF5-8B2F-35C75F29370E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68D5B369-6C7A-4DF5-8B2F-35C75F29370E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68D5B369-6C7A-4DF5-8B2F-35C75F29370E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37F192AE-F289-4C03-8467-908A8B030AA2}
+	EndGlobalSection
+EndGlobal
