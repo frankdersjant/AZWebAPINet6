@@ -20,7 +20,7 @@ namespace FunctionAppNetSix.Services
 
         public IEnumerable<ShoppingCartItem> GetAll()
         {
-            return Seed();
+            return lstshoppingCartItems;
         }
 
         public ShoppingCartItem getById(int id)
